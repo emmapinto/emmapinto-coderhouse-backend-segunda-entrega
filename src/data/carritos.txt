@@ -1,0 +1,172 @@
+[
+  {
+    "products": [
+      {
+        "title": "Campera",
+        "description": "Abrigo",
+        "image": "https://www.tripstore.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/B/V/BV4446-010_0.jpg",
+        "code": "CA232",
+        "price": 24999,
+        "stock": 777,
+        "id": 1,
+        "timestamp": "Wed May 11 2022 00:41:59 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Zapatillas",
+        "description": "Calzado",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYaxSSUjDaUbmL6swLcw59XJsZYzRLV1upAOXh5sfBXIFXcQ8y9SciYpn-uqUjtotZ2Y&usqp=CAU",
+        "code": "AD1050",
+        "price": 15000,
+        "stock": 444,
+        "id": 2,
+        "timestamp": "Wed May 11 2022 00:44:17 GMT-0300 (hora estándar de Argentina)"
+      }
+    ],
+    "id": 1,
+    "timestamp": 1652240544439
+  },
+  {
+    "products": [
+      {
+        "title": "Campera",
+        "description": "Abrigo para invierno.",
+        "image": "https://www.tripstore.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/B/V/BV4446-010_0.jpg",
+        "code": "CA232",
+        "price": 24999,
+        "stock": 777,
+        "id": 1,
+        "timestamp": "Wed May 11 2022 00:50:22 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Zapatillas",
+        "description": "Calzado azul marca Adidas Original.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYaxSSUjDaUbmL6swLcw59XJsZYzRLV1upAOXh5sfBXIFXcQ8y9SciYpn-uqUjtotZ2Y&usqp=CAU",
+        "code": "AD1050",
+        "price": 15000,
+        "stock": 444,
+        "id": 2,
+        "timestamp": "Wed May 11 2022 00:50:32 GMT-0300 (hora estándar de Argentina)"
+      }
+    ],
+    "id": 2,
+    "timestamp": 1652240952970
+  },
+  {
+    "products": [
+      {
+        "title": "Gorra",
+        "description": "Accesorio para la cabeza color negro.",
+        "image": "https://i.imgur.com/tsAsoBi.png",
+        "code": "GO6020",
+        "price": "1330",
+        "stock": "299",
+        "id": 1,
+        "timestamp": "Wed May 11 2022 17:30:21 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Campera",
+        "description": "Abrigo para invierno color negro marca Adidas.",
+        "image": "https://i.imgur.com/ivCeHOG.png",
+        "code": "CA5566",
+        "price": "20990",
+        "stock": "222",
+        "id": 2,
+        "timestamp": "Wed May 11 2022 17:30:59 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Zapatillas",
+        "description": "Calzado azul marca Adidas Original.",
+        "image": "https://i.imgur.com/eVCEeGm.png",
+        "code": "AD1050",
+        "price": 13500,
+        "stock": 999,
+        "id": 4,
+        "timestamp": "Wed May 11 2022 17:32:29 GMT-0300 (hora estándar de Argentina)"
+      }
+    ],
+    "id": 3,
+    "timestamp": 1652301394361
+  },
+  {
+    "products": [
+      {
+        "title": "Corbata",
+        "description": "Accesorio complemento para la camisa.",
+        "image": "https://i.imgur.com/UeQaLMQ.jpg",
+        "code": "COR15",
+        "price": "1100",
+        "stock": "99",
+        "id": 6,
+        "timestamp": "Wed May 11 2022 17:33:52 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Pantalón",
+        "description": "Pantalón de vestir recto color negro.",
+        "image": "https://i.imgur.com/W3xuRVP.jpg",
+        "code": "PA22",
+        "price": 9900,
+        "stock": 78,
+        "id": 5,
+        "timestamp": "Wed May 11 2022 17:33:16 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Cinturón",
+        "description": "Accesorio de cuero negro con hebilla metálica.",
+        "image": "https://i.imgur.com/wn6NW4s.png",
+        "code": "CIN44",
+        "price": "9990",
+        "stock": "333",
+        "id": 3,
+        "timestamp": "Wed May 11 2022 17:31:41 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Camisa",
+        "description": "Camisa Indumentaria formal manga larga color celeste.",
+        "image": "https://i.imgur.com/LhXEtYm.jpg",
+        "code": "CAM77",
+        "price": "11300",
+        "stock": "454",
+        "id": 8,
+        "timestamp": "Wed May 11 2022 17:35:10 GMT-0300 (hora estándar de Argentina)"
+      }
+    ],
+    "id": 4,
+    "timestamp": 1652301418182
+  },
+  {
+    "products": [
+      {
+        "title": "Zapatillas",
+        "description": "Calzado azul marca Adidas Original.",
+        "image": "https://i.imgur.com/eVCEeGm.png",
+        "code": "AD1050",
+        "price": 13500,
+        "stock": 999,
+        "id": 4,
+        "timestamp": "Wed May 11 2022 17:32:29 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Corbata",
+        "description": "Accesorio complemento para la camisa.",
+        "image": "https://i.imgur.com/UeQaLMQ.jpg",
+        "code": "COR15",
+        "price": "1100",
+        "stock": "99",
+        "id": 6,
+        "timestamp": "Wed May 11 2022 17:33:52 GMT-0300 (hora estándar de Argentina)"
+      },
+      {
+        "title": "Remera",
+        "description": "Indumentaria de algodón manga corta color verde.",
+        "image": "https://i.imgur.com/5VXNHv1.png",
+        "code": "RE9987",
+        "price": "5300",
+        "stock": "199",
+        "id": 7,
+        "timestamp": "Wed May 11 2022 17:34:35 GMT-0300 (hora estándar de Argentina)"
+      }
+    ],
+    "id": 5,
+    "timestamp": 1652302403447
+  }
+]
